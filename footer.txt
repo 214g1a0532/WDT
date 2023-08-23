@@ -1,0 +1,23 @@
+Home.HTML:
+CSE.HTML:
+<html>
+<head>
+<title>cse/title>
+<style>
+#footer {
+position:fixed;
+padding:10px 10px 0px 10px;
+bottom:0;
+width:100%
+height:40px
+background:#7beob5;
+}
+</style>
+</head>
+<body>
+clge.html:
+<html>
+<body>
+<table cellpadding="0">
+<tr>
+<td width="200"align="center"><img src="F:\SRIT\Subject\Odd semester\2021-22\WDT\images\logo.jpg"eidth="150"
